@@ -1,0 +1,12 @@
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\bin\Debug\net5.0\WebPOS.Inventory.Core.deps.json
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\bin\Debug\net5.0\WebPOS.Inventory.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\bin\Debug\net5.0\ref\WebPOS.Inventory.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\bin\Debug\net5.0\WebPOS.Inventory.Core.pdb
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\WebPOS.Inventory.Core.csproj.AssemblyReference.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\WebPOS.Inventory.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\WebPOS.Inventory.Core.AssemblyInfoInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\WebPOS.Inventory.Core.AssemblyInfo.cs
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\WebPOS.Inventory.Core.csproj.CoreCompileInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\WebPOS.Inventory.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\ref\WebPOS.Inventory.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Inventory.Core\obj\Debug\net5.0\WebPOS.Inventory.Core.pdb

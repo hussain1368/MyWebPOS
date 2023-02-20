@@ -1,0 +1,12 @@
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\bin\Debug\net5.0\WebPOS.SharedKernel.deps.json
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\bin\Debug\net5.0\WebPOS.SharedKernel.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\bin\Debug\net5.0\ref\WebPOS.SharedKernel.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\bin\Debug\net5.0\WebPOS.SharedKernel.pdb
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\WebPOS.SharedKernel.csproj.AssemblyReference.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\WebPOS.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\WebPOS.SharedKernel.AssemblyInfoInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\WebPOS.SharedKernel.AssemblyInfo.cs
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\WebPOS.SharedKernel.csproj.CoreCompileInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\WebPOS.SharedKernel.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\ref\WebPOS.SharedKernel.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.SharedKernel\obj\Debug\net5.0\WebPOS.SharedKernel.pdb

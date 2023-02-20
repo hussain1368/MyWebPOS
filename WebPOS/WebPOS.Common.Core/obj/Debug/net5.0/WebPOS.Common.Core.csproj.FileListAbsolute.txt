@@ -1,0 +1,12 @@
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\bin\Debug\net5.0\WebPOS.Common.Core.deps.json
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\bin\Debug\net5.0\WebPOS.Common.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\bin\Debug\net5.0\ref\WebPOS.Common.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\bin\Debug\net5.0\WebPOS.Common.Core.pdb
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\WebPOS.Common.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\WebPOS.Common.Core.AssemblyInfoInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\WebPOS.Common.Core.AssemblyInfo.cs
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\WebPOS.Common.Core.csproj.CoreCompileInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\WebPOS.Common.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\ref\WebPOS.Common.Core.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\WebPOS.Common.Core.pdb
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Common.Core\obj\Debug\net5.0\WebPOS.Common.Core.csproj.AssemblyReference.cache

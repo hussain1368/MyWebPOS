@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/Ir21/Rbm2ub7OF8tER8A6GwAWvi51FFEVGXCtgS9IUMgDhyrrxYOiI+cg9ytoQlT1VifSnKmE8UZaVrKNFaw==",
+  "success": true,
+  "projectFilePath": "D:\\MyCode\\MyWebPOS\\WebPOS\\WebPOS.SharedKernel\\WebPOS.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mhhussaini\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\mhhussaini\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\mhhussaini\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\mhhussaini\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\mhhussaini\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\mhhussaini\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\mhhussaini\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

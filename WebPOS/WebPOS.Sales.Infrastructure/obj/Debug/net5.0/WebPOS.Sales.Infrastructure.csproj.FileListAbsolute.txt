@@ -1,0 +1,15 @@
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\bin\Debug\net5.0\WebPOS.Sales.Infrastructure.deps.json
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\bin\Debug\net5.0\WebPOS.Sales.Infrastructure.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\bin\Debug\net5.0\ref\WebPOS.Sales.Infrastructure.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\bin\Debug\net5.0\WebPOS.Sales.Infrastructure.pdb
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.csproj.AssemblyReference.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.AssemblyInfoInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.AssemblyInfo.cs
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\ref\WebPOS.Sales.Infrastructure.dll
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.pdb
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\bin\Debug\net5.0\WebPOS.Sales.Infrastructure.runtimeconfig.json
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\bin\Debug\net5.0\WebPOS.Sales.Infrastructure.runtimeconfig.dev.json
+D:\MyCode\MyWebPOS\WebPOS\WebPOS.Sales.Infrastructure\obj\Debug\net5.0\WebPOS.Sales.Infrastructure.genruntimeconfig.cache
